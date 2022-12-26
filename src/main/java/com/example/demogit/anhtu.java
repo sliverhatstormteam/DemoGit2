@@ -1,2 +1,5 @@
-package com.example.demogit;public class anhtu {
+package com.example.demogit;
+
+public class anhtu {
+    private String name;
 }
